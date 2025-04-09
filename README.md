@@ -14,7 +14,7 @@ This experiment aims to demonstrate:
 
 ## Step1:Create a New Disk
   
-- The new Disk Partition is created as **PRAVEEN V**.
+- The new Disk Partition is created.
   ![Screenshot 2025-03-19 221000](https://github.com/user-attachments/assets/9b603c47-c7da-4012-9b35-3953cfeea86c)
 
 
